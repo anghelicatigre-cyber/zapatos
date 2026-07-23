@@ -1,0 +1,6 @@
+{
+  "name": "KICKVAULT - Multi-Brand Sneaker Store",
+  "description": "Modern, responsive high-converting e-commerce web application for multi-brand sneakers featuring Nike, Adidas, Jordan, Puma, and Reebok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
